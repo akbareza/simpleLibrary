@@ -18,11 +18,11 @@ To show list of book, select option `[1]` from the menu. The program includes fi
 
 Additionally, there is an option to reset the book list to its initial state, removing any applied filter and sort settings.
 
-### `Update Function`
-To update a book, select option 3 from the menu and enter the book ISBN when prompted. Then, enter the updated book information when prompted.
+### Update Function
+To update a book, select option `[3]` from the menu. You could choose the book that you would be updated by enter the index of the book. Next, the program will show you the information of the fields of book and you could choose the information.
 
-### `Delete Function`
-To delete a book, select option 4 from the menu and enter the book ISBN when prompted.
+### Delete Function
+To delete a book, select option `[4]` from the menu and enter the book ISBN when prompted.
 
 ### Contact
 If you have any questions or feedback, please contact me at akbarezamuhammad10@gmail.com.
